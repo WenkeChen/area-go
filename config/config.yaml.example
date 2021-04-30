@@ -1,0 +1,27 @@
+#app:
+#  mode: "debug" #debug|release|test
+#  owner: "Area"
+#  secret: "ccc"
+#  pageSize: 15
+#
+#token:
+#  secret: "111"
+#  life: 2
+#
+#database:
+#  host: "127.0.0.1"
+#  port: "3306"
+#  user: "root"
+#  password: "root"
+#  database: "area"
+#  charset: "utf8"
+#
+#redis:
+#  host: "127.0.0.1"
+#  port: "6379"
+#  password: ""
+#
+#gina:
+#  account: "123"
+#  password: "456"
+#  storageName: "./tmp/gina_cookies.json"
